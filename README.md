@@ -2,8 +2,6 @@
   - [账户注册](user-signup.md)
   - [首页功能](landing.md)
   - [后台首页](dashboard.md)
-  - [市场数据](market-data.md)
-  - [品类爆款](bestsellers.md)
   - [潜力新品](growing-bs.md)
   - [销售趋势透视](sales-trends.md)
   - [关键词商机](keyword-research.md)
